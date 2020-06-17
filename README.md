@@ -69,6 +69,7 @@ Granularity of tasks – The actions you would take to complete the task, the pr
 
 
 Communication 1
+
 Effective communication in the workplace is essential. You should be able to get your point across clearly and concisely.
 You MUST be aware of other people’s technical ability when speaking with them. If they are not tech savy it is important to communicate in a way that they will understand.
 Communication principles: Beginning of the message defines the outcome, Delivery affects the message, Communication is a two way street, The real message is the message received not the message intended
