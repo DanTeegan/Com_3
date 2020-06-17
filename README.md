@@ -6,6 +6,7 @@ Behavioural competencies
 •	Professional
 •	Studious
 •	Imaginative
+
 Email practices
 When working as a consultant it is crucial to adapt good email practices. These include:
 •	No spelling mistakes.
@@ -14,17 +15,20 @@ When working as a consultant it is crucial to adapt good email practices. These 
 •	Keep it as short and to the point as possible.
 •	Address the receiver correctly
 •	Sign off professionally on the email.
+
 Meetings
 In order to have effective meetings it is important to:
 •	selective invitees
 •	goals/objectives
 •	agenda
 •	Holding preliminary meetings
+
  Keeping control 
 •	timeboxing 
 •	scope creep/ cover the point with trello
 •	making decisions
 •	minutes/ROD
+
 Best practices for a consultant
 •	Dedicated space
 •	dress appropriately
@@ -68,10 +72,12 @@ Communication 1
 Effective communication in the workplace is essential. You should be able to get your point across clearly and concisely.
 You MUST be aware of other people’s technical ability when speaking with them. If they are not tech savy it is important to communicate in a way that they will understand.
 Communication principles: Beginning of the message defines the outcome, Delivery affects the message, Communication is a two way street, The real message is the message received not the message intended
+
 Rapport
 Building rapport with your co workers is essential within the workplace. It will help in:
 •	Developing mutual trust and friendship
 •	Establish a good interpersonal relationship
+
 Communication barriers
 Their can be many barriers that may affect communication. These are:
 •	Cultural
@@ -92,9 +98,11 @@ Why we listen?
 2.	Helps to connect with other people, and in turn builds rapport
 3.	Listening helps in getting to the end goal of “yes”
 4.	Rather than spotlight being on you it is on them
+
 How we listen?
 1.	Genuine listening needs to be practised.
 2.	Listen for what is not being said.
+
 Why is it so hard to listen?
 1.	In todays world there are so many distractions, especially in our minds
 2.	Having a clear mind can improve the ability to listen
@@ -115,6 +123,7 @@ Verbal listening
 •	Remembering – Remembering certain things such as the speakers name or previous things discussed.
 •	Questioning – Asking questions to the speaker about certain things they may have said
 •	Reflection – reflecting on anything that the speaker may have said. Reflecting on the discussion.
+
 
 Questioning
 Open questions – Questions that allow you to expand on whatever is being asked. No definitive answer.
@@ -168,12 +177,15 @@ NLP is the practice of understanding how people organise their thinking, feeling
 NLP is also used for personal development and for success in business
 A key element of NLP is that we form our unique internal mental maps of the world as a product of the way we filter and perceive information absorbed through our five senses from the world around us
 Shape your reality using these techniques.
+
 “learning the language of your own mind”
+
 How is NLP Beneficial
 •	Think more clearly
 •	Communicate more effectively with others
 •	Manage your thoughts, moods and behaviour effectively
 •	Medical benefits
+
 NLP in the workplace
 •	Problems are usually internal – work experiences are related to the individual rather than the workplace
 •	Studying language patterns to tailor communication methods – Building workplace relationships, influencing the way other people think.
@@ -182,6 +194,7 @@ NLP in the workplace
 Cognitive biases
 The mind is an operating system. It has multiple processes always running in the background. It can’t always work perfectly.
 There are hidden flaws, backdoors and hacks that people can use to access our minds and subsequently our ways of working.
+
 Exploiting bias in the workplace
 •	Reactance – by telling people they are able to say no will make them more likely to say yes.
 •	Reciprocity – be the first to give: the feeling of obligation to give when you receive. Personalised and unexpected
