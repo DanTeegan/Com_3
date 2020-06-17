@@ -1,5 +1,6 @@
 # Business notes (Week 1)
 Behavioural competencies
+
 •	Analytics
 •	Independent
 •	Determined
@@ -8,6 +9,7 @@ Behavioural competencies
 •	Imaginative
 
 Email practices
+
 When working as a consultant it is crucial to adapt good email practices. These include:
 •	No spelling mistakes.
 •	No grammar mistakes.
@@ -17,6 +19,7 @@ When working as a consultant it is crucial to adapt good email practices. These 
 •	Sign off professionally on the email.
 
 Meetings
+
 In order to have effective meetings it is important to:
 •	selective invitees
 •	goals/objectives
@@ -24,12 +27,14 @@ In order to have effective meetings it is important to:
 •	Holding preliminary meetings
 
  Keeping control 
+ 
 •	timeboxing 
 •	scope creep/ cover the point with trello
 •	making decisions
 •	minutes/ROD
 
 Best practices for a consultant
+
 •	Dedicated space
 •	dress appropriately
 •	have a routine
@@ -41,16 +46,19 @@ Best practices for a consultant
 
 
 Prioritisation
+
 Making sure the deadlines are organised according to the time available to do it.
 Importance vs Urgency: Urgency is something which is given the highest priority, and importance is something which is important but doesn’t need to be done immediately.
 
 Time management
+
 Time boxing – Allocating a specified amount of time to perform a certain task.
 Measuring and recording – spending time 
 2 minute rule – Spending a maximum of 2 minutes of any given task.
 Pareto principle – This rule is one of the most helpful concepts for life and time management
 
 Task management
+
 The process of managing a task diaries lifecycle. Planning, tracking and reporting
 Ubiquitous capture – The method of capturing information. For example, To do lists, Trelo board note taking.
 Granularity of tasks – The actions you would take to complete the task, the priority is set from the top to bottom of the list. More time is spent on the actions of the beginning of the list.
@@ -75,11 +83,13 @@ You MUST be aware of other people’s technical ability when speaking with them.
 Communication principles: Beginning of the message defines the outcome, Delivery affects the message, Communication is a two way street, The real message is the message received not the message intended
 
 Rapport
+
 Building rapport with your co workers is essential within the workplace. It will help in:
 •	Developing mutual trust and friendship
 •	Establish a good interpersonal relationship
 
 Communication barriers
+
 Their can be many barriers that may affect communication. These are:
 •	Cultural
 •	Physical
@@ -88,6 +98,7 @@ Their can be many barriers that may affect communication. These are:
 •	Personal
 
 4 levels of listening
+
 There are 4 levels of listening. In order to be a better communicator, it is essential to try to always be using deep listening. The 4 stages are as follows:
 1.	Cosmetic
 2.	Conversational
@@ -110,6 +121,7 @@ Why is it so hard to listen?
 3.	You MUST listen to yourself first.
 
 Active listening
+
 Active listening can be split into 2 subtopics these are stated below:
 Non-verbal listening
 
