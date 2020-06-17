@@ -1,4 +1,4 @@
-# Buissness week notes
+# Business notes (Week 1)
 Behavioural competencies
 •	Analytics
 •	Independent
