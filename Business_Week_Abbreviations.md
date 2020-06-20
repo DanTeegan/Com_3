@@ -1,4 +1,5 @@
 #Business module - List of Abbreviations
+
 NLP – Neuro-Linguistic Programming
 
 STAR – Situation, Task, Action, Result
