@@ -1,5 +1,5 @@
-#Business Homework
-#MOST
+    Business Homework
+   MOST
 
 This stand for Mission, Objectives, Strategy, Tactics
 
@@ -15,7 +15,7 @@ Boston Box (Growth share matrix)
 
 The Boston Box is a tool for portfolio management. The idea is to develop a balanced portfolio of products or business units that either generate or consume cash. The Boston Box – or Growth-Share-Matrix – was named after the Boston Consulting Group, since it was developed by BCG’s founder, Bruce D. Henderson and his colleagues.
 
-#Porters Five Forces
+Porters Five Forces
 
 Porter's Five Forces is a simple but powerful tool for understanding the competitiveness of your business environment, and for identifying your strategy's potential profitability.
 
@@ -29,7 +29,7 @@ Porter's Five Forces is a simple but powerful tool for understanding the competi
 
 5.	Threat of New Entry. Your position can be affected by people's ability to enter your market. So, think about how easily this could be done. How easy is it to get a foothold in your industry or market? How much would it cost, and how tightly is your sector regulated?
 
-#PESTLE
+PESTLE
 
 A PESTLE analysis is a framework to analyse the key factors influencing an organisation from the outside. It offers people professionals insight into the external factors impacting their organisation
 
@@ -40,7 +40,7 @@ A PESTLE analysis is a framework to analyse the key factors influencing an organ
 5.	Legal
 6.	Environmental
 
-#SWOT
+SWOT
 
 SWOT Analysis is a simple but powerful means of pulling together key findings from the external and internal analysis. It is a summary of the organisations current strategic position.
 1.	Strengths within the organisation that can be built upon
@@ -48,14 +48,14 @@ SWOT Analysis is a simple but powerful means of pulling together key findings fr
 3.	Opportunities that could be exploited by the organisation
 4.	Threats that may be presented to the organisation
 
-#Workshops
+Workshops
 
 Agile Team Workshop. In the Agile Team Workshop, your team gains a shared understanding of an Agile requirements model, starting with a vision and progressing all the way down to acceptance tests and testable examples. Leave with new ideas and a cohesive understanding of the Agile road ahead.
 
-#Interviews
+Interviews
 
 The purpose of an interview is twofold: It shows the employer what you can do for the company, and it gives you an opportunity to assess whether your qualifications and career ambitions align with the position. Interviews are also a good way of employers testing your knowledge on a certain topic that may be required in the role applying for.
 
-#Questionnaires
+Questionnaires
 
 A primary research method that provides a relatively cheap, quick and efficient way of obtaining large amounts of information from a large sample of people. ... Often a questionnaire uses both open and closed questions to collect data. This is beneficial as it means both quantitative and qualitative data can be obtained.
